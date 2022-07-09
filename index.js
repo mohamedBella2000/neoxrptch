@@ -21,7 +21,7 @@ function start() {
 	})
 }
 
-CFonts.say('NEOXR BOT', {
+CFonts.say('JACK BOT', {
     font: 'tiny',
     align: 'center',
     colors: ['system']
